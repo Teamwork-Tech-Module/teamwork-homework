@@ -4,6 +4,7 @@ namespace Programing_Fundamentals_Exersises
 {
     class Program
     {
+        //confirmed by maxkaft
         static void Main(string[] args)
         {
             int first = int.Parse(Console.ReadLine());
