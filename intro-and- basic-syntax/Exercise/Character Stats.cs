@@ -6,6 +6,8 @@ namespace Character_Stats
     {
         static void Main(string[] args)
         {
+            //confirmed my maxkaft
+
             string nameOfChar = Console.ReadLine();
             int currentHealth = int.Parse(Console.ReadLine());
             int maxHealth = int.Parse(Console.ReadLine());
