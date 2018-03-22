@@ -6,8 +6,8 @@ namespace _03.Miles_to_KM
     {
         static void Main(string[] args)
         {
-            double km = double.Parse(Console.ReadLine());
-            Console.WriteLine("{0:F2}", km * 1.60934);    
+            double distance = double.Parse(Console.ReadLine());
+            Console.WriteLine("{0:F2}", distance * 1.60934);    
         }
     }
 }
