@@ -6,10 +6,10 @@ namespace Rectangle_Area
     {
         static void Main(string[] args)
         {
-            double w = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
             double h = double.Parse(Console.ReadLine());
 
-            double rectangleArea = w * h;
+            double rectangleArea = width * h;
 
             Console.WriteLine($"{rectangleArea:f2}");
         }
