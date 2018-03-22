@@ -6,6 +6,7 @@ namespace Rectangle_Area
     {
         static void Main(string[] args)
         {
+			//Confirmed by tterzziew
             double width = double.Parse(Console.ReadLine());
             double h = double.Parse(Console.ReadLine());
 
